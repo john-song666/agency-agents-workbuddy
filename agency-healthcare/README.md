@@ -1,1 +1,20 @@
-IyBhZ2VuY3ktaGVhbHRoY2FyZSDigJQgSGVhbHRoY2FyZSBEb21haW4gQWdlbnRzDQoNCioqMyoqIGV4cGVydCByb2xlIHBlcnNvbmFzIGZvciB0aGUgKipIZWFsdGhjYXJlKiogZG9tYWluLCBjb252ZXJ0ZWQgZnJvbSBbbXNpdGFyemV3c2tpL2FnZW5jeS1hZ2VudHNdKGh0dHBzOi8vZ2l0aHViLmNvbS9tc2l0YXJ6ZXdza2kvYWdlbmN5LWFnZW50cykgaW50byBXb3JrQnVkZHkgc2tpbGwgZm9ybWF0Lg0KDQojIyBIb3cgdG8gdXNlDQoNCkluIFdvcmtCdWRkeSwgaW52b2tlIHRoaXMgc2tpbGwgYnkgaWQgKGBhZ2VuY3ktaGVhbHRoY2FyZWApIG9yIGp1c3Qgc2F5IHNvbWV0aGluZyBsaWtlICoidXNlIGEgaGVhbHRoY2FyZSBleHBlcnQiKi4gVGhlIHNraWxsJ3Mgcm91dGVyIHdpbGwgcG9pbnQgeW91IHRvIHRoZSByaWdodCBwZXJzb25hLiBUbyBhZG9wdCBhIHNwZWNpZmljIHJvbGUsIG9wZW4gdGhlIG1hdGNoaW5nIGByZWZlcmVuY2VzLyoubWRgIGZpbGUgYW5kIGZvbGxvdyB0aGF0IGJyaWVmLg0KDQojIyBBZ2VudHMgKDMpDQoNCi0gKipDbGluaWNhbCBFdmlkZW5jZSBBZ2VudCoqIOKAlCBFdmlkZW5jZSBzdGFuZGFyZHMgYW5kIGNsaW5pY2FsIGNyZWRpYmlsaXR5IGZyYW1ld29yayBmb3IgQUkgYWdlbnRzDQotICoqSGVhbHRoY2FyZSBJbm5vdmF0aW9uIFN0cmF0ZWdpc3QqKiDigJQgU3RyYXRlZ2ljIG5hcnJhdGl2ZSBhcmNoaXRlY3QgZm9yIGhlYWx0aGNhcmUgZm91bmRlcnMgb3BlcmF0aW5nIGF0DQotICoqU292ZXJlaWduIEhlYWx0aCBTeXN0ZW1zIEFnZW50Kiog4oCUIEdvdmVybm1lbnQgaGVhbHRoIG1hbmRhdGUgZW5nYWdlbWVudCBmcmFtZXdvcmsgZm9yIEFJIGFnZW50cw0KDQojIyBDcmVkaXQgLyDoh7TosKINCg0KVGhpcyBza2lsbC1wYWNrIGlzIGEgY29udmVyc2lvbiBvZiBbbXNpdGFyemV3c2tpL2FnZW5jeS1hZ2VudHNdKGh0dHBzOi8vZ2l0aHViLmNvbS9tc2l0YXJ6ZXdza2kvYWdlbmN5LWFnZW50cykgYnkgKipNaWNoYWVsIFNpdGFyemV3c2tpKiouDQoNCj4g5oSf6LCi5Y6f5L2c6ICFICoqTWljaGFlbCBTaXRhcnpld3NraSoqIOeahOWIhuS6q+S4juW8gOa6kOOAgiDwn5mPDQo+IENvbnZlcnRlZCAmIG1lcmdlZCBieSBkb21haW4gaW50byBXb3JrQnVkZHkgc2tpbGwgZm9ybWF0LiBBbGwgcm9sZSBjb250ZW50IHJlbWFpbnMgYXR0cmlidXRlZCB0byB0aGUgb3JpZ2luYWwgYXV0aG9yLg0K
+# agency-healthcare — Healthcare Domain Agents
+
+**3** expert role personas for the **Healthcare** domain, converted from [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) into WorkBuddy skill format.
+
+## How to use
+
+In WorkBuddy, invoke this skill by id (`agency-healthcare`) or just say something like *"use a healthcare expert"*. The skill's router will point you to the right persona. To adopt a specific role, open the matching `references/*.md` file and follow that brief.
+
+## Agents (3)
+
+- **Clinical Evidence Agent** — Evidence standards and clinical credibility framework for AI agents
+- **Healthcare Innovation Strategist** — Strategic narrative architect for healthcare founders operating at
+- **Sovereign Health Systems Agent** — Government health mandate engagement framework for AI agents
+
+## Credit / 致谢
+
+This skill-pack is a conversion of [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) by **Michael Sitarzewski**.
+
+> 感谢原作者 **Michael Sitarzewski** 的分享与开源。 🙏
+> Converted & merged by domain into WorkBuddy skill format. All role content remains attributed to the original author.

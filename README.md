@@ -1,1 +1,140 @@
-IyBhZ2VuY3ktYWdlbnRzLXdvcmtidWRkeQ0KDQpUaGUgW21zaXRhcnpld3NraS9hZ2VuY3ktYWdlbnRzXShodHRwczovL2dpdGh1Yi5jb20vbXNpdGFyemV3c2tpL2FnZW5jeS1hZ2VudHMpIHJvbGUgbGlicmFyeSwgKipjb252ZXJ0ZWQgaW50byBXb3JrQnVkZHkgc2tpbGwgZm9ybWF0KiogYW5kICoqbWVyZ2VkIGludG8gMTcgZG9tYWluIHNraWxscyoqLg0KDQpFYWNoIGBhZ2VuY3ktPGRvbWFpbj4vYCBmb2xkZXIgaXMgb25lIFdvcmtCdWRkeSBza2lsbDogYFNLSUxMLm1kYCBpcyBhIHJvdXRlci9pbmRleCwgYW5kIGByZWZlcmVuY2VzLyoubWRgIGhvbGRzIGVhY2ggYWdlbnQncyBvcmlnaW5hbCBwZXJzb25hIGJyaWVmIChsb2FkZWQgb24gZGVtYW5kKS4NCg0KIyMgRmVhdHVyZXMNCg0KLSAqKjIzOSBleHBlcnQgcGVyc29uYXMqKiBhY3Jvc3MgMTcgZG9tYWlucywgcmVhZHkgdG8gdXNlIGFzIFdvcmtCdWRkeSBza2lsbHMNCi0gKipPbi1kZW1hbmQgbG9hZGluZyoqIOKAlCBvbmx5IHRoZSBwZXJzb25hIHlvdSBuZWVkIGlzIHJlYWQgaW50byBjb250ZXh0DQotICoqUm91dGluZyBidWlsdC1pbioqIOKAlCBkZXNjcmliZSBhIHRhc2sgYW5kIHRoZSBza2lsbCBwb2ludHMgeW91IHRvIHRoZSByaWdodCBleHBlcnQNCi0gKipGYWl0aGZ1bCBjb252ZXJzaW9uKiog4oCUIG9yaWdpbmFsIHJvbGUgY29udGVudCBwcmVzZXJ2ZWQsIGNyZWRpdGVkIHRvIHRoZSBhdXRob3INCg0KIyMgRG9tYWlucyAoMTcpDQoNCnwgRG9tYWluIHwgU2tpbGwgaWQgfCBBZ2VudHMgfA0KfCAtLS0gfCAtLS0gfCAtLS0gfA0KfCBBY2FkZW1pYyB8IGBhZ2VuY3ktYWNhZGVtaWNgIHwgNiB8DQp8IERlc2lnbiB8IGBhZ2VuY3ktZGVzaWduYCB8IDkgfA0KfCBFbmdpbmVlcmluZyB8IGBhZ2VuY3ktZW5naW5lZXJpbmdgIHwgNDkgfA0KfCBGaW5hbmNlIHwgYGFnZW5jeS1maW5hbmNlYCB8IDUgfA0KfCBHYW1lIERldmVsb3BtZW50IHwgYGFnZW5jeS1nYW1lLWRldmVsb3BtZW50YCB8IDUgfA0KfCBHSVMgfCBgYWdlbmN5LWdpc2AgfCAxMyB8DQp8IEhlYWx0aGNhcmUgfCBgYWdlbmN5LWhlYWx0aGNhcmVgIHwgMyB8DQp8IE1hcmtldGluZyB8IGBhZ2VuY3ktbWFya2V0aW5nYCB8IDM2IHwNCnwgUGFpZCBNZWRpYSB8IGBhZ2VuY3ktcGFpZC1tZWRpYWAgfCA3IHwNCnwgUHJvZHVjdCB8IGBhZ2VuY3ktcHJvZHVjdGAgfCA1IHwNCnwgUHJvamVjdCBNYW5hZ2VtZW50IHwgYGFnZW5jeS1wcm9qZWN0LW1hbmFnZW1lbnRgIHwgNyB8DQp8IFNhbGVzIHwgYGFnZW5jeS1zYWxlc2AgfCA5IHwNCnwgU2VjdXJpdHkgfCBgYWdlbmN5LXNlY3VyaXR5YCB8IDEwIHwNCnwgU3BhdGlhbCBDb21wdXRpbmcgfCBgYWdlbmN5LXNwYXRpYWwtY29tcHV0aW5nYCB8IDYgfA0KfCBTcGVjaWFsaXplZCB8IGBhZ2VuY3ktc3BlY2lhbGl6ZWRgIHwgNTQgfA0KfCBTdXBwb3J0IHwgYGFnZW5jeS1zdXBwb3J0YCB8IDYgfA0KfCBUZXN0aW5nIHwgYGFnZW5jeS10ZXN0aW5nYCB8IDkgfA0KDQojIyBJbnN0YWxsDQoNCkNvcHkgdGhlIGBhZ2VuY3ktKmAgZm9sZGVycyBpbnRvIHlvdXIgV29ya0J1ZGR5IHNraWxscyBkaXJlY3Rvcnk6DQoNCmBgYHRleHQNCiMgV2luZG93cw0KQzpcVXNlcnNcPHlvdT5cLndvcmtidWRkeVxza2lsbHMNCg0KIyBtYWNPUyAvIExpbnV4DQp+Ly53b3JrYnVkZHkvc2tpbGxzLw0KYGBgDQoNCk9yIGNsb25lIHRoaXMgcmVwbyBhbmQgY29weSB0aGUgMTcgYGFnZW5jeS0qYCBmb2xkZXJzOg0KDQpgYGBiYXNoDQpnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2pvaG4tc29uZzY2Ni9hZ2VuY3ktYWdlbnRzLXdvcmtidWRkeS5naXQNCmNwIC1yIGFnZW5jeS1hZ2VudHMtd29ya2J1ZGR5L2FnZW5jeS0qIH4vLndvcmtidWRkeS9za2lsbHMvDQpgYGANCg0KIyMgVXNlDQoNCkluIFdvcmtCdWRkeSwgc2F5IGUuZy4gKiJ1c2UgYSBmcm9udGVuZCBleHBlcnQiKiBvciBpbnZva2UgdGhlIHNraWxsIGJ5IGlkIChgYWdlbmN5LWVuZ2luZWVyaW5nYCk7IHRoZSByb3V0ZXIgd2lsbCBwb2ludCB5b3UgdG8gdGhlIHJpZ2h0IHBlcnNvbmEgZmlsZS4gT3BlbiBhbnkgYHJlZmVyZW5jZXMvKi5tZGAgdG8gYWRvcHQgdGhhdCByb2xlLg0KDQojIyBTdHJ1Y3R1cmUNCg0KYGBgdGV4dA0KYWdlbmN5LWFnZW50cy13b3JrYnVkZHkvDQrilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAgICAgIyB0aGlzIGZpbGUNCuKUnOKUgOKUgCBhZ2VuY3ktYWNhZGVtaWMvDQrilIIgICDilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAjIGRvbWFpbiBvdmVydmlldyAoNiBhZ2VudHMpDQrilIIgICDilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICAjIHJvdXRlciAvIGluZGV4DQrilIIgICDilJTilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAjIDYgcGVyc29uYSBicmllZnMgKCoubWQpDQrilJzilIDilIAgYWdlbmN5LWRlc2lnbi8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICg5IGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgOSBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktZW5naW5lZXJpbmcvDQrilIIgICDilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAjIGRvbWFpbiBvdmVydmlldyAoNDkgYWdlbnRzKQ0K4pSCICAg4pSc4pSA4pSAIFNLSUxMLm1kICAgICAgICAgICAgIyByb3V0ZXIgLyBpbmRleA0K4pSCICAg4pSU4pSA4pSAIHJlZmVyZW5jZXMvICAgICAgICAgIyA0OSBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktZmluYW5jZS8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICg1IGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgNSBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktZ2FtZS1kZXZlbG9wbWVudC8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICg1IGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgNSBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktZ2lzLw0K4pSCICAg4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgIyBkb21haW4gb3ZlcnZpZXcgKDEzIGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgMTMgcGVyc29uYSBicmllZnMgKCoubWQpDQrilJzilIDilIAgYWdlbmN5LWhlYWx0aGNhcmUvDQrilIIgICDilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAjIGRvbWFpbiBvdmVydmlldyAoMyBhZ2VudHMpDQrilIIgICDilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICAjIHJvdXRlciAvIGluZGV4DQrilIIgICDilJTilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAjIDMgcGVyc29uYSBicmllZnMgKCoubWQpDQrilJzilIDilIAgYWdlbmN5LW1hcmtldGluZy8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICgzNiBhZ2VudHMpDQrilIIgICDilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICAjIHJvdXRlciAvIGluZGV4DQrilIIgICDilJTilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAjIDM2IHBlcnNvbmEgYnJpZWZzICgqLm1kKQ0K4pSc4pSA4pSAIGFnZW5jeS1wYWlkLW1lZGlhLw0K4pSCICAg4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgIyBkb21haW4gb3ZlcnZpZXcgKDcgYWdlbnRzKQ0K4pSCICAg4pSc4pSA4pSAIFNLSUxMLm1kICAgICAgICAgICAgIyByb3V0ZXIgLyBpbmRleA0K4pSCICAg4pSU4pSA4pSAIHJlZmVyZW5jZXMvICAgICAgICAgIyA3IHBlcnNvbmEgYnJpZWZzICgqLm1kKQ0K4pSc4pSA4pSAIGFnZW5jeS1wcm9kdWN0Lw0K4pSCICAg4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgIyBkb21haW4gb3ZlcnZpZXcgKDUgYWdlbnRzKQ0K4pSCICAg4pSc4pSA4pSAIFNLSUxMLm1kICAgICAgICAgICAgIyByb3V0ZXIgLyBpbmRleA0K4pSCICAg4pSU4pSA4pSAIHJlZmVyZW5jZXMvICAgICAgICAgIyA1IHBlcnNvbmEgYnJpZWZzICgqLm1kKQ0K4pSc4pSA4pSAIGFnZW5jeS1wcm9qZWN0LW1hbmFnZW1lbnQvDQrilIIgICDilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAjIGRvbWFpbiBvdmVydmlldyAoNyBhZ2VudHMpDQrilIIgICDilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICAjIHJvdXRlciAvIGluZGV4DQrilIIgICDilJTilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAjIDcgcGVyc29uYSBicmllZnMgKCoubWQpDQrilJzilIDilIAgYWdlbmN5LXNhbGVzLw0K4pSCICAg4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgIyBkb21haW4gb3ZlcnZpZXcgKDkgYWdlbnRzKQ0K4pSCICAg4pSc4pSA4pSAIFNLSUxMLm1kICAgICAgICAgICAgIyByb3V0ZXIgLyBpbmRleA0K4pSCICAg4pSU4pSA4pSAIHJlZmVyZW5jZXMvICAgICAgICAgIyA5IHBlcnNvbmEgYnJpZWZzICgqLm1kKQ0K4pSc4pSA4pSAIGFnZW5jeS1zZWN1cml0eS8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICgxMCBhZ2VudHMpDQrilIIgICDilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICAjIHJvdXRlciAvIGluZGV4DQrilIIgICDilJTilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAjIDEwIHBlcnNvbmEgYnJpZWZzICgqLm1kKQ0K4pSc4pSA4pSAIGFnZW5jeS1zcGF0aWFsLWNvbXB1dGluZy8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICg2IGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgNiBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktc3BlY2lhbGl6ZWQvDQrilIIgICDilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAjIGRvbWFpbiBvdmVydmlldyAoNTQgYWdlbnRzKQ0K4pSCICAg4pSc4pSA4pSAIFNLSUxMLm1kICAgICAgICAgICAgIyByb3V0ZXIgLyBpbmRleA0K4pSCICAg4pSU4pSA4pSAIHJlZmVyZW5jZXMvICAgICAgICAgIyA1NCBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktc3VwcG9ydC8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICg2IGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgNiBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUnOKUgOKUgCBhZ2VuY3ktdGVzdGluZy8NCuKUgiAgIOKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgZG9tYWluIG92ZXJ2aWV3ICg5IGFnZW50cykNCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMgcm91dGVyIC8gaW5kZXgNCuKUgiAgIOKUlOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICMgOSBwZXJzb25hIGJyaWVmcyAoKi5tZCkNCuKUlOKUgOKUgCBMSUNFTlNFDQpgYGANCg0KIyMgQ3JlZGl0IC8g6Ie06LCiDQoNClRoaXMgc2tpbGwtcGFjayBpcyBhIGNvbnZlcnNpb24gb2YgW21zaXRhcnpld3NraS9hZ2VuY3ktYWdlbnRzXShodHRwczovL2dpdGh1Yi5jb20vbXNpdGFyemV3c2tpL2FnZW5jeS1hZ2VudHMpIGJ5ICoqTWljaGFlbCBTaXRhcnpld3NraSoqLg0KDQo+IOaEn+iwouWOn+S9nOiAhSAqKk1pY2hhZWwgU2l0YXJ6ZXdza2kqKiDnmoTliIbkuqvkuI7lvIDmupDjgIIg8J+Zjw0KPiBDb252ZXJ0ZWQgJiBtZXJnZWQgYnkgZG9tYWluIGludG8gV29ya0J1ZGR5IHNraWxsIGZvcm1hdC4gQWxsIHJvbGUgY29udGVudCByZW1haW5zIGF0dHJpYnV0ZWQgdG8gdGhlIG9yaWdpbmFsIGF1dGhvci4NCg==
+# agency-agents-workbuddy
+
+The [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) role library, **converted into WorkBuddy skill format** and **merged into 17 domain skills**.
+
+Each `agency-<domain>/` folder is one WorkBuddy skill: `SKILL.md` is a router/index, and `references/*.md` holds each agent's original persona brief (loaded on demand).
+
+## Features
+
+- **239 expert personas** across 17 domains, ready to use as WorkBuddy skills
+- **On-demand loading** — only the persona you need is read into context
+- **Routing built-in** — describe a task and the skill points you to the right expert
+- **Faithful conversion** — original role content preserved, credited to the author
+
+## Domains (17)
+
+| Domain | Skill id | Agents |
+| --- | --- | --- |
+| Academic | `agency-academic` | 6 |
+| Design | `agency-design` | 9 |
+| Engineering | `agency-engineering` | 49 |
+| Finance | `agency-finance` | 5 |
+| Game Development | `agency-game-development` | 5 |
+| GIS | `agency-gis` | 13 |
+| Healthcare | `agency-healthcare` | 3 |
+| Marketing | `agency-marketing` | 36 |
+| Paid Media | `agency-paid-media` | 7 |
+| Product | `agency-product` | 5 |
+| Project Management | `agency-project-management` | 7 |
+| Sales | `agency-sales` | 9 |
+| Security | `agency-security` | 10 |
+| Spatial Computing | `agency-spatial-computing` | 6 |
+| Specialized | `agency-specialized` | 54 |
+| Support | `agency-support` | 6 |
+| Testing | `agency-testing` | 9 |
+
+## Install
+
+Copy the `agency-*` folders into your WorkBuddy skills directory:
+
+```text
+# Windows
+C:\Users\<you>\.workbuddy\skills
+
+# macOS / Linux
+~/.workbuddy/skills/
+```
+
+Or clone this repo and copy the 17 `agency-*` folders:
+
+```bash
+git clone https://github.com/john-song666/agency-agents-workbuddy.git
+cp -r agency-agents-workbuddy/agency-* ~/.workbuddy/skills/
+```
+
+## Use
+
+In WorkBuddy, say e.g. *"use a frontend expert"* or invoke the skill by id (`agency-engineering`); the router will point you to the right persona file. Open any `references/*.md` to adopt that role.
+
+## Structure
+
+```text
+agency-agents-workbuddy/
+├── README.md                  # this file
+├── agency-academic/
+│   ├── README.md           # domain overview (6 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 6 persona briefs (*.md)
+├── agency-design/
+│   ├── README.md           # domain overview (9 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 9 persona briefs (*.md)
+├── agency-engineering/
+│   ├── README.md           # domain overview (49 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 49 persona briefs (*.md)
+├── agency-finance/
+│   ├── README.md           # domain overview (5 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 5 persona briefs (*.md)
+├── agency-game-development/
+│   ├── README.md           # domain overview (5 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 5 persona briefs (*.md)
+├── agency-gis/
+│   ├── README.md           # domain overview (13 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 13 persona briefs (*.md)
+├── agency-healthcare/
+│   ├── README.md           # domain overview (3 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 3 persona briefs (*.md)
+├── agency-marketing/
+│   ├── README.md           # domain overview (36 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 36 persona briefs (*.md)
+├── agency-paid-media/
+│   ├── README.md           # domain overview (7 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 7 persona briefs (*.md)
+├── agency-product/
+│   ├── README.md           # domain overview (5 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 5 persona briefs (*.md)
+├── agency-project-management/
+│   ├── README.md           # domain overview (7 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 7 persona briefs (*.md)
+├── agency-sales/
+│   ├── README.md           # domain overview (9 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 9 persona briefs (*.md)
+├── agency-security/
+│   ├── README.md           # domain overview (10 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 10 persona briefs (*.md)
+├── agency-spatial-computing/
+│   ├── README.md           # domain overview (6 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 6 persona briefs (*.md)
+├── agency-specialized/
+│   ├── README.md           # domain overview (54 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 54 persona briefs (*.md)
+├── agency-support/
+│   ├── README.md           # domain overview (6 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 6 persona briefs (*.md)
+├── agency-testing/
+│   ├── README.md           # domain overview (9 agents)
+│   ├── SKILL.md            # router / index
+│   └── references/         # 9 persona briefs (*.md)
+└── LICENSE
+```
+
+## Credit / 致谢
+
+This skill-pack is a conversion of [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) by **Michael Sitarzewski**.
+
+> 感谢原作者 **Michael Sitarzewski** 的分享与开源。 🙏
+> Converted & merged by domain into WorkBuddy skill format. All role content remains attributed to the original author.
