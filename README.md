@@ -4,6 +4,8 @@ The [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 
 
 Each `agency-<domain>/` folder is one WorkBuddy skill: `SKILL.md` is a router/index, and `references/*.md` holds each agent's original persona brief (loaded on demand).
 
+![Project structure](tree.svg)
+
 ## Features
 
 - **239 expert personas** across 17 domains, ready to use as WorkBuddy skills
