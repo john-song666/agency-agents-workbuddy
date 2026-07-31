@@ -35,6 +35,8 @@ Each `agency-<domain>/` folder is one WorkBuddy skill: `SKILL.md` is a router/in
 | Support | `agency-support` | 6 |
 | Testing | `agency-testing` | 9 |
 
+![Domain distribution](domain-pie.svg)
+
 ## Install
 
 Copy the `agency-*` folders into your WorkBuddy skills directory:
